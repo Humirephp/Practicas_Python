@@ -23,7 +23,7 @@ print("Este es el valor de:", definir_bool)
 # Akgunas Funciones del sistema para mostrar el numero de caracteres  
 print (len(mi_nombre_es)) 
 
-# Variables en una sola linea 
+# Definir Variables en una sola linea 
 edad, dni, apellido, apodo  ="18" , "9999" , "Acero", "Leon"
 print("- mi edad es :", edad, " - mi numero de DNI es :", dni ,"- Mi apellido es :", apellido, " - mi apodo es :" ,apodo)
 
