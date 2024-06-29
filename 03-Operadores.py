@@ -6,7 +6,7 @@ print(3 * 5)   #Multiplicacion
 print(10 / 2)  #division
 print(2 ** 3)  #Exponentes
 
-print ("Hola "  +  " Mundo "  +  " ¿ que tal ?")
+print ("Hola "  +  " Mundo "  +  " que tal ")
 print ("Hola " + str(10))
 
 ### Operadores comparativos ### 
