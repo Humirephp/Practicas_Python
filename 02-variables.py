@@ -31,8 +31,8 @@ print("- mi edad es :", edad, " - mi numero de DNI es :", dni ,"- Mi apellido es
 name = input ("¿Cual es tu nombre?")
 age = input ("¿Cual es tu edad?")
 
-print("tu nombre es :", name)
-print("tu edad es :", age) 
+print("---tu nombre es--- :", name)
+print("---tu edad es---- :", age) 
 
 # Forzamos el tipo
 address: str = "Esto es elemental"
